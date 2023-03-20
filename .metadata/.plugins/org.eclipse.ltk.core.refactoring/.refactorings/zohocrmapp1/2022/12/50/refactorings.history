@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;EmailController.java&apos; to &apos;zohocrmapp1/src/main/java/com.zohocrm.controller&apos;&#x0D;&#x0A;- Original project: &apos;zohocrmapp1&apos;&#x0D;&#x0A;- Destination element: &apos;zohocrmapp1/src/main/java/com.zohocrm.controller&apos;&#x0D;&#x0A;- Original element: &apos;com.zohocrm.EmailController.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zohocrm.controller" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zohocrm{EmailController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1670506285337" units="1" version="1.0"/>
+</session>
